@@ -14,6 +14,7 @@ public class Boletin2_1 {
         area= (int)(base*altura/2);
         JOptionPane.showMessageDialog(null, "area -"+ area);
         System.out.println("area de triangulo "+base+" e altura "+altura+" su area es = "+area);
+      
     }
     
 }
